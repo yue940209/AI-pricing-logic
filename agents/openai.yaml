@@ -1,0 +1,4 @@
+interface:
+  display_name: "国产 AI 产品计费逻辑（参照飞书）"
+  short_description: "用四层框架拆解国产 AI 收费规则、版本变化与企业成本，参照飞书案例"
+  default_prompt: "使用 $ai-pricing-logic 分析这份计费规则，把具体做法放进四层框架，解释变化、影响和省钱方法。"
